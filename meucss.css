@@ -1,0 +1,23 @@
+p {
+    background-color: blue;
+    color: white;
+    border: 2 px solid black;
+   }
+
+   h1{
+    color:red;
+    border: 5px solid black;
+   }
+
+   .corParagrafoX{
+    background-color: orange;
+   }
+
+   .corParagrafoY{
+    background-color: black;
+   }
+
+   .removeBorda{
+    border: none;
+    background-color:white;
+   }
