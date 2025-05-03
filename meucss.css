@@ -1,32 +1,31 @@
 p {
     font-family: 'Inter', sans-serif;
-color: #fff;
-} 
+    color: #fff;
+}
 
 body {
-background-color: #b5c5ea;
+    background-color: #b5c5ea;
 }
 
 div {
-background-color: #476ecc;
-width: 400px;
-height: 400px;
-
-margin: 50px auto;
-padding: 30px 20px;
-box-sizing:border-box;
+    background-color: #476ecc;
+    width: 400px;
+    height: 400px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-sizing: border-box;
 }
 
 h1, p {
-padding: 30px 50px;
+    padding: 30px 50px;
 
-/*padding-top: 30px;
-padding-bottom: 30px;
-padding-left: 50px;
-paffing-right:50px;*/
+    /*padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    paffing-right:50px;*/
 }
 
 h1 {
-border: 10px solid #fff;
-border-radius: 60 px;
+    border: 10px solid #fff;
+    border-radius: 60px;
 }
